@@ -14,10 +14,11 @@
    A Travel App
    
   
+    <a href="https://github.com/Uny1me/Flutter-Travels/issues">View Demo</a>
     ·
-    <a href="https://github.com/Uny1me/Flutter-Travels/issues">Report Bug</a>
+    <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues](https://github.com/Uny1me/Flutter-Travels/issues">Request Feature</a>
+    <a href="https://github.com/othneildrew/Best-README-Template/issues">Request Feature</a>
   </p>
 </div>
 
