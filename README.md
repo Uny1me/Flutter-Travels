@@ -12,9 +12,6 @@
 
   <p align="center">
    A Travel App
-    
-    <br />
-    <br />
    
     <a href="https://github.com/Uny1me/Flutter-Travels/issues">Report Bug</a>
     ·
