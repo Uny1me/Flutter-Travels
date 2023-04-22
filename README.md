@@ -11,8 +11,8 @@
   <h3 align="center">FLUTTER TRAVELS</h3>
 
   <p align="center">
-   A Travel App
-   <a href="https://github.com/othneildrew/Best-README-Template/issues">Request Feature</a>
+An Open source base sample React Native Application
+   <a href="https://github.com/Uny1me/Flutter-Travels/issues">Request Feature</a>
   </p>
 </div>
 
